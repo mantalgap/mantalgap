@@ -1,4 +1,6 @@
-## Hi there 아무거나 쳐보기 랄랄라 👋 Feature/a 기능 개발 완료
+## Hi there 아무거나 쳐보기 랄랄라 👋 Feature/b 기능 개발 완료
+
+## 김동범
 
 <!--
 **mantalgap/mantalgap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
